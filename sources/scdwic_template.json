@@ -1,0 +1,120 @@
+{
+"Base Characteristics":{
+    "Strength":0,
+    "Dexterity":0,
+    "Contstitution":0,
+    "Intelligence":0,
+    "Wisdom":0,
+    "Charisma":0
+},
+"Saving Throws":{
+    "Strength":0,
+    "Dexterity":0,
+    "Contstitution":0,
+    "Intelligence":0,
+    "Wisdom":0,
+    "Charisma":0
+},
+"Skills":{
+    "Acrobatics":{
+        "Stat":"Dexterity",
+        "Proficient":0
+    },
+    "Animal Handling":{
+        "Stat":"Wisdom",
+        "Proficient":0
+    },
+    "Arcana":{
+        "Stat":"Intelligence",
+        "Proficient":0
+    },
+    "Athletics":{
+        "Stat":"Strength",
+        "Proficient":0
+    },
+    "Deception":{
+        "Stat":"Charisma",
+        "Proficient":0
+    },
+    "History":{
+        "Stat":"Intelligence",
+        "Proficient":0
+    },
+    "Insight":{
+        "Stat":"Wisdom",
+        "Proficient":0
+    },
+    "Intimidation":{
+        "Stat":"Charisma",
+        "Proficient":0
+    },
+    "Investigation":{
+        "Stat":"Intelligence",
+        "Proficient":0
+    },
+    "Medicine":{
+        "Stat":"Wisdom",
+        "Proficient":0
+    },
+    "Nature":{
+        "Stat":"Intelligence",
+        "Proficient":0
+    },
+    "Perception":{
+        "Stat":"Wisdom",
+        "Proficient":0
+    },
+    "Performance":{
+        "Stat":"Charisma",
+        "Proficient":0
+    },
+    "Persuasion":{
+        "Stat":"Charisma",
+        "Proficient":0
+    },
+    "Religion":{
+        "Stat":"Intelligence",
+        "Proficient":0
+    },
+    "Sleight of Hand":{
+        "Stat":"Dexterity",
+        "Proficient":0
+    },
+    "Stealth":{
+        "Stat":"Dexterity",
+        "Proficient":0
+    },
+    "Survival":{
+        "Stat":"Wisdom",
+        "Proficient":0
+    }
+},
+"Equipment":{
+    "Worn":{
+        "Head":null,
+        "Chest":null,
+        "Hands":null,
+        "Belt":null,
+        "Legs":null,
+        "Feet":null,
+        "Necklace":null,
+        "Right Ring":null,
+        "Left Ring":null,
+        "Main Hand":null,
+        "Off Hand":null
+    },
+    "Purse":{
+        "CP":0,
+        "SP":0,
+        "EP":0,
+        "GP":0,
+        "PP":0
+    }
+},
+"Feats":{},
+"Traits":{},
+"Ideals":{},
+"Bonds":{},
+"Flaws":{},
+"Spells":{}
+}
